@@ -1,2 +1,2 @@
 # Cardápio Elas na Tech
-Aprendendo a usar os comendos do html e css
+Aprendendo a usar os comandos do html e css
